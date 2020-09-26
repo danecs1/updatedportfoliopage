@@ -454,6 +454,10 @@ header {
     padding: 0;
 }
 
+.fa-linkedin-in {
+    color: green;
+}
+
 .social-list__item {
     margin: 0 .5em;
 }
